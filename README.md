@@ -9,4 +9,6 @@
 
 It is connected (3-2-1-0), not (0-1-2-3)
 
+It is the same when tested with pure firmware.
+
 ![20221119_233053](https://user-images.githubusercontent.com/102475504/202856048-c4e136c9-f9c2-41d1-85ff-cba03ca50f8b.jpg)
