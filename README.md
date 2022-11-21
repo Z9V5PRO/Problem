@@ -4,11 +4,23 @@
  
 ![20221119_231747](https://user-images.githubusercontent.com/102475504/202855344-e8bf53c6-f5bc-44c2-84db-a04d9a696b45.jpg)
 
+-> 
+
+https://github.com/Z9V5PRO/Upgrade/tree/main/Cable%20Chain
+
+Teflon tubes connected respectively
+
+
 
 2. Extruder Motor 
 
 It is connected (3-2-1-0), not (0-1-2-3)
 
-It is the same when tested with pure firmware.
+It is the same when tested with pure firmware. 
+
+It doesn't really matter.
+
 
 ![20221119_233053](https://user-images.githubusercontent.com/102475504/202856048-c4e136c9-f9c2-41d1-85ff-cba03ca50f8b.jpg)
+
+-> Klipper install
